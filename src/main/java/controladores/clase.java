@@ -10,4 +10,6 @@ package controladores;
  */
 public class clase {
     
+
+    int Data;
 }
