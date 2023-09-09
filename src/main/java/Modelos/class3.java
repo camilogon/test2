@@ -2,14 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package controladores;
+package Modelos;
 
 /**
  *
  * @author camil
  */
-public class clase {
+public class class3 {
     
-
-    int Data;
 }
